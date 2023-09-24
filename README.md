@@ -54,3 +54,4 @@ http://localhost:8080/servers
 Example using Curl:
 curl http://localhost:8080/servers
 
+## All the outputs are added in the file "Task_1_Outputs"
